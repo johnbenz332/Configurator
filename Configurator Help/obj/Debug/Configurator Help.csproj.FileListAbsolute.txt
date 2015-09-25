@@ -1,0 +1,8 @@
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\bin\Debug\Configurator Help.exe
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\bin\Debug\Configurator Help.pdb
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\obj\Debug\Configurator Help.csprojResolveAssemblyReference.cache
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\obj\Debug\Configurator_Help.main.resources
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\obj\Debug\Configurator_Help.Properties.Resources.resources
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\obj\Debug\Configurator Help.csproj.GenerateResource.Cache
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\obj\Debug\Configurator Help.exe
+F:\Desktop\Ongoing projects\Configurator Help\Configurator Help\obj\Debug\Configurator Help.pdb
